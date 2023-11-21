@@ -14,7 +14,7 @@
 ### Technologies that i use the most
 <hr/>
 
-![My Skills](https://skillicons.dev/icons?i=django,python,java,php,laravel,mysql,html,css,git,photoshop,eclipse,vscode)
+![My Skills](https://skillicons.dev/icons?i=spring,angular,java,django,python,typescript,php,laravel,mysql,html,css,git,photoshop,eclipse,vscode)
 
 
 ### Known 
